@@ -1,0 +1,29 @@
+[
+  {
+    "data": {
+      "type": "contracts",
+      "id": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+      "attributes": {
+        "name": "Contract 1"
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "contracts",
+      "id": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+      "attributes": {
+        "name": "Contract 2"
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "contracts",
+      "id": "dc89ff49-8449-11e7-ac1d-3c52820efd22",
+      "attributes": {
+        "name": "Contract 3"
+      }
+    }
+  }
+]
