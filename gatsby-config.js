@@ -1,5 +1,3 @@
-require('dotenv').config({ path: `.env.${process.env.ENV}` });
-
 module.exports = {
   siteMetadata: {
     title: 'Gatsby',
