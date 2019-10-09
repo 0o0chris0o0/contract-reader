@@ -6,25 +6,27 @@ const Container = styled.div`
   ${props => props.styling};
 `;
 
-export default function Loader({ loaderStyles, color, size }) {
+export default function Loader({ loaderStyles, width, height }) {
   return (
-    <Container className="lds-ring" styling={loaderStyles} style={{ width: size, height: size }}>
-      <div style={{ borderColor: `${color} transparent transparent transparent` }} />
-      <div style={{ borderColor: `${color} transparent transparent transparent` }} />
-      <div style={{ borderColor: `${color} transparent transparent transparent` }} />
-      <div style={{ borderColor: `${color} transparent transparent transparent` }} />
+    <Container styling={loaderStyles}>
+      <div style={{ width, height }} className="lds-bars">
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
     </Container>
   );
 }
 
 Loader.defaultProps = {
   loaderStyles: {},
-  color: 'black',
-  size: '40px',
+  width: '100px',
+  height: '20px',
 };
 
 Loader.propTypes = {
   loaderStyles: PropTypes.oneOfType([PropTypes.object, PropTypes.array]),
-  color: PropTypes.string,
-  size: PropTypes.string,
+  width: PropTypes.string,
+  height: PropTypes.string,
 };

@@ -12,7 +12,7 @@
     "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
     "id": "0d60b462-2b98-11e8-97a1-080027a8df8b",
     "attributes": {
-      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
     }
   },
   {
@@ -20,7 +20,7 @@
     "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
     "id": "0d60b462-2b98-11e8-97a1-080027a8df8c",
     "attributes": {
-      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
     }
   },
   {
@@ -117,6 +117,230 @@
     "id": "0d60b462-2b98-11e8-97a1-080027a8df8o",
     "attributes": {
       "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8p",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8q",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8r",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8s",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8t",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8u",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd20",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8v",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 1 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat CONTACT END"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8a",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8b",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8c",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8d",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8e",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8f",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8g",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8h",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8i",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8j",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8k",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8l",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8m",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8n",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8o",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8p",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8q",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd21",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8r",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 2 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat CONTACT END"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd22",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8a",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 3 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd22",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8b",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 3 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+    }
+  },
+  {
+    "type": "contract-paragraphs",
+    "contractId": "dc89ff49-8449-11e7-ac1d-3c52820efd22",
+    "id": "0d60b462-2b98-11e8-97a1-080027a8df8c",
+    "attributes": {
+      "text": "Lorem ipsum paragraph from contract 3 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris CONTACT END"
     }
   }
 ]

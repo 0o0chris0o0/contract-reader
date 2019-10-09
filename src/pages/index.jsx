@@ -6,7 +6,6 @@ import Seo from '../components/Seo';
 
 export default function Index({ data }) {
   const contracts = data.allContractsJson.nodes;
-  console.log(data);
   return (
     <Layout>
       <Seo title="Contract Reader" />

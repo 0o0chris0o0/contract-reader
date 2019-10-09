@@ -13,7 +13,7 @@ const Container = styled.div`
 
 const Layout = ({ children }) => (
   <Container>
-    <main class="section">{children}</main>
+    <main className="section">{children}</main>
   </Container>
 );
 
